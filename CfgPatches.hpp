@@ -113,3 +113,4 @@ class CfgPatches {
         author = "pvtJ.shark";
         authors[] = {"pvtJ.shark"};
 	};
+};
